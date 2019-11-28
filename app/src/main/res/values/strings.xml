@@ -3,4 +3,10 @@
     <string name="welcomeText">Welcome to Texts</string>
     <string name="loginButton">Login</string>
     <string name="signupButton">Sign Up</string>
+    <string name="loginPrompt">Login to Texts</string>
+    <string name="emailHint">Enter Email</string>
+    <string name="passwordHint">Enter Password</string>
+    <string name="emailAutofillHInt">email</string>
+    <string name="passwordAutofillHint">password</string>
+    <string name="submitButton">Submit</string>
 </resources>
