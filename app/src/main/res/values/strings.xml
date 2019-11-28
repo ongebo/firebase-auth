@@ -10,4 +10,7 @@
     <string name="passwordAutofillHint">password</string>
     <string name="submitButton">Submit</string>
     <string name="signupPrompt">Sign Up to Texts</string>
+    <string name="homescreenTitle">Choose an Action</string>
+    <string name="addTextButton">Add Text...</string>
+    <string name="viewAllTextsButton">View all Texts...</string>
 </resources>
