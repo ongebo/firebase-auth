@@ -13,4 +13,8 @@
     <string name="homescreenTitle">Choose an Action</string>
     <string name="addTextButton">Add Text...</string>
     <string name="viewAllTextsButton">View all Texts...</string>
+    <string name="addTextPrompt">Add New Text</string>
+    <string name="textTitleHint">Enter Title</string>
+    <string name="textDescriptionHint">Enter Description</string>
+    <string name="saveTextButton">Save</string>
 </resources>
