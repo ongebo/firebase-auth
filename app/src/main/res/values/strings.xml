@@ -9,4 +9,5 @@
     <string name="emailAutofillHInt">email</string>
     <string name="passwordAutofillHint">password</string>
     <string name="submitButton">Submit</string>
+    <string name="signupPrompt">Sign Up to Texts</string>
 </resources>
