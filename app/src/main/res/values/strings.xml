@@ -17,4 +17,7 @@
     <string name="textTitleHint">Enter Title</string>
     <string name="textDescriptionHint">Enter Description</string>
     <string name="saveTextButton">Save</string>
+    <string name="allTextsTitle">All Your Saved Texts</string>
+    <string name="savedTextTitlePlaceholder">Text Title</string>
+    <string name="savedTextDescriptionPlaceholder">A short description of text saved to database.</string>
 </resources>

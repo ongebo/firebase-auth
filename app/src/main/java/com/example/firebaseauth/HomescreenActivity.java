@@ -18,4 +18,9 @@ public class HomescreenActivity extends AppCompatActivity {
         Intent intent = new Intent(this, AddTextActivity.class);
         startActivity(intent);
     }
+
+    public void onViewAllTextsButtonClick(View view) {
+        Intent intent = new Intent(this, AllTextsActivity.class);
+        startActivity(intent);
+    }
 }
