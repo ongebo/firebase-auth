@@ -11,11 +11,11 @@
         android:theme="@style/AppTheme">
         <activity
             android:name=".AllTextsActivity"
-            android:parentActivityName=".HomescreenActivity"></activity>
+            android:parentActivityName=".HomeScreenActivity"></activity>
         <activity
             android:name=".AddTextActivity"
-            android:parentActivityName=".HomescreenActivity" />
-        <activity android:name=".HomescreenActivity" />
+            android:parentActivityName=".HomeScreenActivity" />
+        <activity android:name=".HomeScreenActivity" />
         <activity
             android:name=".SignupActivity"
             android:parentActivityName=".MainActivity" />
